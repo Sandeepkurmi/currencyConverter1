@@ -1,3 +1,5 @@
+//Currency Converter calculator
+
 class CurrencyConverter extends javax.swing.JFrame{
 double US_Dollar = 1.31;
 double Nigerian_Naira = 1001.67;
